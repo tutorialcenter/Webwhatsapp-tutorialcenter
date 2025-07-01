@@ -36,8 +36,6 @@ To connect your mobile device to Web.whatsapp.com, you need to scan a live QR co
 - In WhatsApp, go to **Linked Devices** and tap **Link a Device**.
 - Your camera will open — scan the QR code displayed on your browser.
 
-.. note::
-   Your phone must stay online for WhatsApp Web to work.
 
 Real-Life Setup Example
 -----------------------
@@ -49,12 +47,12 @@ What to Do if Web.whatsapp.com Is Not Working?
 
 If you're having trouble logging into WhatsApp Web, try these solutions:
 
-- ✅ Make sure you're visiting the correct site: `web.whatsapp.com <https://web.whatsapp.com>`_
-- ✅ Refresh the QR code if it expired
-- ✅ Ensure your phone is connected to the internet
-- ✅ Try a different browser or clear cache/cookies
-- ✅ Update WhatsApp on your mobile device
-- ✅ Restart both your phone and computer
+- Make sure you're visiting the correct site: `web.whatsapp.com <https://web.whatsapp.com>`_
+- Refresh the QR code if it expired
+- Ensure your phone is connected to the internet
+- Try a different browser or clear cache/cookies
+- Update WhatsApp on your mobile device
+- Restart both your phone and computer
 
 Still having issues? Visit the `WhatsApp Help Center <https://faq.whatsapp.com>`_.
 
