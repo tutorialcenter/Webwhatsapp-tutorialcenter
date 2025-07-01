@@ -1,4 +1,4 @@
-Web.whatsapp.com - How to Easily use WhatsApp Web from a Browser
+web.whatsapp.com - How to Easily use WhatsApp Web from a Browser
 ===============================
 
 
