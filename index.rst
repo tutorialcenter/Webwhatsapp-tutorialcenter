@@ -40,7 +40,7 @@ To connect your mobile device to Web.whatsapp.com, you need to scan a live QR co
 Real-Life Setup Example
 -----------------------
 
-"I often work on my laptop, and typing long messages on my phone was a pain. I opened web.whatsapp.com, scanned the QR code with my iPhone, and in seconds, I was replying to all my chats from my keyboard. It’s smooth, fast, and makes multitasking so much easier!"
+"I often work on my laptop, and typing long messages on my phone was a pain. I opened `web.whatsapp.com <https://web.whatsapp.com>`_, scanned the QR code with my iPhone, and in seconds, I was replying to all my chats from my keyboard. It’s smooth, fast, and makes multitasking so much easier!"
 
 What to Do if Web.whatsapp.com Is Not Working?
 ----------------------------------------------
