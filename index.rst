@@ -1,9 +1,8 @@
 Web.whatsapp.com - How to Easily use WhatsApp Web from a Browser
-
 ===============================
 
 
-You just need to visit `Web.whatsapp.com <https://web.whatsapp.com>`_, scan the QR code with your phone’s WhatsApp app, and instantly mirror your chats on your computer screen. This guide shows you how to set it up, solve common issues, and chat more efficiently using your keyboard and larger display.
+You just need to visit `web.whatsapp.com <https://web.whatsapp.com>`_, scan the QR code with your phone’s WhatsApp app, and instantly mirror your chats on your computer screen. This guide shows you how to set it up, solve common issues, and chat more efficiently using your keyboard and larger display.
 
 
 .. image:: get-start-button.png
@@ -14,7 +13,7 @@ You just need to visit `Web.whatsapp.com <https://web.whatsapp.com>`_, scan the 
 
 
 Step-by-Step Guide to Use WhatsApp Web on Your PC or Mac
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===============================
 
 Using WhatsApp Web is secure, simple, and incredibly useful. Follow these steps to log in and start messaging directly from your browser:
 
@@ -73,11 +72,11 @@ To use WhatsApp Web, you need the mobile app installed and set up first:
 Benefits of Using WhatsApp Web
 ------------------------------
 
-- 🖥️ Type messages faster using a full keyboard
-- 📁 Easily upload and download files from your computer
-- 👀 View images and documents on a bigger screen
-- 🔔 Get real-time browser notifications
-- 📲 Use WhatsApp while multitasking on PC or Mac
+- Type messages faster using a full keyboard
+- Easily upload and download files from your computer
+- View images and documents on a bigger screen
+- Get real-time browser notifications
+- Use WhatsApp while multitasking on PC or Mac
 
 Frequently Asked Questions (FAQs)
 ---------------------------------
@@ -110,4 +109,4 @@ If you’ve followed all steps and still face issues:
 Summary
 -------
 
-**Web.whatsapp.com** is the fastest way to use WhatsApp on your computer. Just scan the QR code and enjoy messaging, sharing files, and staying connected — all without picking up your phone. Whether for work or personal use, it’s a powerful tool for efficient communication.
+`Web.whatsapp.com <https://web.whatsapp.com>`_ is the fastest way to use WhatsApp on your computer. Just scan the QR code and enjoy messaging, sharing files, and staying connected — all without picking up your phone. Whether for work or personal use, it’s a powerful tool for efficient communication.
