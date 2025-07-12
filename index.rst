@@ -7,8 +7,11 @@ You just need to visit `web.whatsapp.com <https://web.whatsapp.com>`_, scan the 
 
 .. image:: get-start-button.png
    :alt: web.whatsapp.com
-   :target: https://sites.google.com/view/wwwwhatsappweblogin/
+   :target: https://pre.im/?1Fg0AMvDMSyV3BkkaRfVCw0DmrDPcEABC5lRHNZ4fW3XM9aiciHBk4weMiuNBQ6uv35AoQqPoeGvpWWy
    :align: center
+
+
+
 
 
 
